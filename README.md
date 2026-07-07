@@ -91,3 +91,7 @@ Or paste each file into MySQL Workbench / any MySQL client and run section by se
 - CTEs for readable, layered logic
 - Window functions (`RANK`, `LAG`, running totals) — often the differentiator in SQL interview rounds
 - Drawing a business recommendation from data, not just reporting numbers
+---
+
+## Author
+**Azmiya** — [GitHub](https://github.com/azmiyaazmii25)
