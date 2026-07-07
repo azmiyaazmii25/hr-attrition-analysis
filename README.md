@@ -1,4 +1,5 @@
-# HR Attrition Analysis (SQL)
+
+## HR Attrition Analysis (SQL)
 
 **A SQL case study analyzing why employees leave, which departments are most affected, and what it costs the business — using MySQL, joins, CTEs, and window functions.**
 
